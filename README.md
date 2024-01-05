@@ -2,11 +2,11 @@
 This project is a simple web application that allows users to select and book seats for movies. Users can view available seats, choose their preferred movie, select seats, and proceed with the booking process.
 
 <h3>Features</h3>
-*Movie Selection: Choose from a list of available movies along with their respective prices.     
+Movie Selection: Choose from a list of available movies along with their respective prices.     
 
-*Seat Selection: Click on the available seats to select them for booking.    
-*Booking Confirmation: Receive confirmation upon successful seat selection and booking.    
-*Cancellation: Option available to cancel the selected seats before confirmation.     
+Seat Selection: Click on the available seats to select them for booking.    
+Booking Confirmation: Receive confirmation upon successful seat selection and booking.    
+Cancellation: Option available to cancel the selected seats before confirmation.     
 
 
 <h3>Technologies Used</h3>
