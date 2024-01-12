@@ -1,6 +1,9 @@
 <h1>Movie Ticket Booking</h1>
 This project is a simple web application that allows users to select and book seats for movies. Users can view available seats, choose their preferred movie, select seats, and proceed with the booking process.
 
+# Hosted Link
+https://arunesh-singhh.github.io/Movie-Tickets-Booking/
+
 <h3>Features</h3>
 Movie Selection: Choose from a list of available movies along with their respective prices.     
 
